@@ -24,3 +24,8 @@
     ```
     find . -type f -exec sed -i 's/from/to/' {} \;
     ```
+
+* Ranger: Copy config files
+    ```
+	ranger --copy-config=all 
+    ```
