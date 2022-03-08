@@ -35,6 +35,9 @@
 # Links
 
 ## VIM Plugins
+
+ | PLUGIN      | URL                                          |
+ | --------    | -----------------------------------------    |
  | NERDTree    | https://github.com/preservim/nerdtree        |
  | CtrlP.vim   | https://github.com/ctrlpvim/ctrlp.vim        |
  | Tabular"    | https://github.com/godlygeek/tabular         |
