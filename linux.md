@@ -42,3 +42,4 @@
  | CtrlP.vim   | https://github.com/ctrlpvim/ctrlp.vim        |
  | Tabular"    | https://github.com/godlygeek/tabular         |
  | Easy-motion | https://github.com/easymotion/vim-easymotion |
+ | Fugitive    | https://github.com/tpope/vim-fugitive        |
