@@ -29,3 +29,11 @@
     ```
 	ranger --copy-config=all 
     ```
+
+
+
+# Links
+
+## VIM Plugins
+- NERDTree https://github.com/preservim/nerdtree
+- CtrlP.vim https://github.com/ctrlpvim/ctrlp.vim
