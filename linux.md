@@ -35,5 +35,7 @@
 # Links
 
 ## VIM Plugins
-- NERDTree https://github.com/preservim/nerdtree
-- CtrlP.vim https://github.com/ctrlpvim/ctrlp.vim
+ | NERDTree    | https://github.com/preservim/nerdtree        |
+ | CtrlP.vim   | https://github.com/ctrlpvim/ctrlp.vim        |
+ | Tabular"    | https://github.com/godlygeek/tabular         |
+ | Easy-motion | https://github.com/easymotion/vim-easymotion |
