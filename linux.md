@@ -25,13 +25,36 @@
     find . -type f -exec sed -i 's/from/to/' {} \;
     ```
 
-* Ranger: Copy config files
+# Ranger: 
+- [Arch Linux wiki] (https://wiki.archlinux.org/title/ranger#Hidden_files)
+
+* Copy config files
     ```
 	ranger --copy-config=all 
     ```
 
+* Drop to command line (opens shell on the current directory) 
+    ```
+	Shift + S
+    ```
 
+* Return to Ranger: 
+    ```
+	Ctrl + D
+    ```
 
+* Show hidden files:
+
+    ```
+	rc.conf
+	---
+	set show_hidden true
+    ```
+
+    ```
+	:set show_hidden!
+	:set show_hidden true
+    ```
 # Links
 
 ## VIM Plugins
