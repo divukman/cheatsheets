@@ -67,3 +67,4 @@
  | Easy-motion | https://github.com/easymotion/vim-easymotion |
  | Fugitive    | https://github.com/tpope/vim-fugitive        |
  | indentLine  | https://github.com/Yggdroot/indentLine       |
+ | ale	       | https://github.com/dense-analysis/ale	      |
