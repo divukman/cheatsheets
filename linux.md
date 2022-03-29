@@ -66,3 +66,4 @@
  | Tabular"    | https://github.com/godlygeek/tabular         |
  | Easy-motion | https://github.com/easymotion/vim-easymotion |
  | Fugitive    | https://github.com/tpope/vim-fugitive        |
+ | indentLine  | https://github.com/Yggdroot/indentLine       |
