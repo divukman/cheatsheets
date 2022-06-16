@@ -27,24 +27,24 @@
 ## Systemd
 
 * List all loaded systemd units
-```
-systemctl
-```
+  ```
+  systemctl
+  ```
 
 * List all loaded services
-```
-systemctl --type=service
-```
+  ```
+  systemctl --type=service
+  ```
 
 * List all loaded active services
-```
-systemctl list-units --type=service --state=active
-```
+  ```
+  systemctl list-units --type=service --state=active
+  ```
 
 * List all loaded running services
-```
-systemctl --type=service --state=running
-```
+  ```
+  systemctl --type=service --state=running
+  ```
 
 
 
