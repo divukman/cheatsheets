@@ -24,6 +24,29 @@
     ```
     find . -type f -exec sed -i 's/from/to/' {} \;
     ```
+## Systemd
+
+* List all loaded systemd units
+```
+systemctl
+```
+
+* List all loaded services
+```
+systemctl --type=service
+```
+
+* List all loaded active services
+```
+systemctl list-units --type=service --state=active
+```
+
+* List all loaded running services
+```
+systemctl --type=service --state=running
+```
+
+
 
 # Ranger: 
 - [Arch Linux wiki] (https://wiki.archlinux.org/title/ranger#Hidden_files)
