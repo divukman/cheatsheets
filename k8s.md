@@ -1,4 +1,4 @@
-# K8 Cheat-sheet
+# K8s Cheat-sheet
 
 * Switch from minikube to gcloud and back:
     ```
