@@ -48,7 +48,7 @@
 
 
 
-# Ranger: 
+# Ranger
 - [Arch Linux wiki] (https://wiki.archlinux.org/title/ranger#Hidden_files)
 
 * Copy config files
@@ -79,12 +79,14 @@
 	:set show_hidden true
     ```
     
-#VIM
+# VIM
 - View available color schemes, start VIM and type:
+
     ```
 	:colorscheme + space + tab
     ```
-To make permanent change, update .vimrc (~/.vimrc, /etc/vim/vimrc), add line colorscheme <theme>:
+To make permanent change, update .vimrc (~/.vimrc, /etc/vim/vimrc), add line `colorscheme <theme>`:
+
     ```
 	colorscheme morning
     ```
