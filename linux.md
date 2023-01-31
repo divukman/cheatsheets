@@ -80,15 +80,15 @@
     ```
     
 # VIM
-- View available color schemes, start VIM and type:
+* View available color schemes, start VIM and type:
 
     ```
 	:colorscheme + space + tab
     ```
-To make permanent change, update .vimrc (~/.vimrc, /etc/vim/vimrc), add line `colorscheme <theme>`:
+* To make permanent change, update .vimrc (~/.vimrc, /etc/vim/vimrc), add line `colorscheme <theme>`:
 
     ```
-	colorscheme morning
+    colorscheme morning
     ```
 
 
