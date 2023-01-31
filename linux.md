@@ -78,6 +78,18 @@
 	:set show_hidden!
 	:set show_hidden true
     ```
+    
+#VIM
+- View available color schemes, start VIM and type:
+    ```
+	:colorscheme + space + tab
+    ```
+To make permanent change, update .vimrc (~/.vimrc, /etc/vim/vimrc), add line colorscheme <theme>:
+    ```
+	colorscheme morning
+    ```
+
+
 # Links
 
 ## VIM Plugins
