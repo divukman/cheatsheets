@@ -156,6 +156,11 @@
     ```
     kubectl delete cronjob hello
     ```
+    
+* Dump pod logs (stdout):
+    ```
+    kubectl logs my-pod
+    ```   
 
 ## Helm
 
