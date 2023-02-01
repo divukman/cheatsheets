@@ -141,6 +141,21 @@
     ```
     kubectl delete -f pod.yaml --namespace=test
     ```
+    
+* Create CronJob:
+    ```
+    kubectl create -f https://k8s.io/examples/application/job/cronjob.yaml
+    ```
+
+* Get jobs:
+    ```
+    kubectl get jobs --watch
+    ```
+
+* Delete cron job:
+    ```
+    kubectl delete cronjob hello
+    ```
 
 ## Helm
 
