@@ -91,6 +91,8 @@
     colorscheme morning
     ```
 
+# MIX
+* figlet - Figlet is a command line or a terminal utility available in the Linux operating system that allows us to create some amazing and appealing ASCII text banners
 
 # Links
 
